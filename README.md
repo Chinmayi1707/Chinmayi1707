@@ -10,8 +10,11 @@
 ###  I’m currently learning  
 - Data Science, DevOps
 - ![Static Badge](https://img.shields.io/badge/Beginer-orange?style=flat-square&logo=html5&logoColor=orange&logoSize=auto&label=html&labelColor=grey)
- ,CSS & JavaScript  
-- Git & GitHub best practices
+  ![Static Badge](https://img.shields.io/badge/Pro-blue?style=social&logo=html5&logoColor=blue&logoSize=auto&label=CSS&labelColor=white)
+ ![Static Badge](https://img.shields.io/badge/Js-cream?style=flat&logo=javascript&logoColor=black&logoSize=auto&label=Java%20Script&labelColor=white)
+
+
+- ![Static Badge](https://img.shields.io/badge/commands-blue?style=social&logo=github&logoColor=black&logoSize=auto&label=Git%20Hub&labelColor=white)
 -  ![Static Badge](https://img.shields.io/badge/beginner-yellow?style=flat&logo=Java&logoColor=green&logoSize=auto&label=Java&labelColor=black&color=blue)
 
 ###  I’m looking for help with  
